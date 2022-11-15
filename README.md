@@ -71,3 +71,9 @@ SGD는 학습이 불안정해보이므로, 현재 가장 많이 사용하는 opt
 optimizer변경
 
 # Random crop을 통한 Data Augmantation 진행
+
+![image](https://user-images.githubusercontent.com/104436260/201831917-40d96a76-757b-4ad3-9727-7b15ed0bc842.png)
+
+batch를 풀어주어 각각의 사진이 random crop 될 수 있도록 함.
+
+drop_ramainder=True를 통해 배치사이즈를 만족시키지 못하는 마지막 데이터들을 버려줌
