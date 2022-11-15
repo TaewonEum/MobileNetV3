@@ -49,3 +49,7 @@ LR=0.0001 #학습률
 # Dataset 만들기
 
 ![image](https://user-images.githubusercontent.com/104436260/201830219-90e9af40-089d-4b20-a5d3-c893d6c8d090.png)
+
+# prefetch 적용
+
+![image](https://user-images.githubusercontent.com/104436260/201830360-19acfd4a-4889-420c-acb5-006e1f213af8.png)
