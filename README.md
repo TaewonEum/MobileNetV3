@@ -72,6 +72,8 @@ optimizer변경
 
 # Random crop을 통한 Data Augmantation 진행
 
+트레인 이미지를 256으로 늘려주고 랜덤으로 224사이즈로 랜덤 crop 해주어 데이터 변형
+
 ![image](https://user-images.githubusercontent.com/104436260/201831917-40d96a76-757b-4ad3-9727-7b15ed0bc842.png)
 
 batch를 풀어주어 각각의 사진이 random crop 될 수 있도록 함.
