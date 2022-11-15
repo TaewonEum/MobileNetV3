@@ -63,3 +63,5 @@ LR=0.0001 #학습률
 ![image](https://user-images.githubusercontent.com/104436260/201830581-c28a2bcc-3520-4b15-9082-aa2491c73e4e.png)
 
 optimizer는 SGD사용
+
+SGD는 학습이 불안정해보이므로, 현재 가장 많이 사용하는 optimizer인 Adam으로 학습 진행
