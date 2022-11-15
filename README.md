@@ -58,6 +58,6 @@ LR=0.0001 #학습률
 
 ![image](https://user-images.githubusercontent.com/104436260/201830479-326b10ef-6a12-4bf8-b246-71b076cf228a.png)
 
-#Model 학습시키기
+# Model 학습시키기
 
 ![image](https://user-images.githubusercontent.com/104436260/201830581-c28a2bcc-3520-4b15-9082-aa2491c73e4e.png)
