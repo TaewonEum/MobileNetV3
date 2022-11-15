@@ -53,3 +53,7 @@ LR=0.0001 #학습률
 # prefetch 적용
 
 ![image](https://user-images.githubusercontent.com/104436260/201830360-19acfd4a-4889-420c-acb5-006e1f213af8.png)
+
+# Pretrained Model load
+
+![image](https://user-images.githubusercontent.com/104436260/201830479-326b10ef-6a12-4bf8-b246-71b076cf228a.png)
