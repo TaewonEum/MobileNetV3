@@ -100,3 +100,4 @@ cutmix함수 만들어줌
 
 ![image](https://user-images.githubusercontent.com/104436260/201859582-a7ffad6b-288d-4a9e-b237-1a9cd8ddfeb4.png)
 
+cutmix data 확인
