@@ -94,4 +94,6 @@ Cutmix알고리즘을 사용하기 위해서는 기존의 라벨링값을 one ho
 
 one-hot encoding으로 라벨값 바꿔줌
 
+![image](https://user-images.githubusercontent.com/104436260/201858941-47774c25-795e-4c24-8430-92c7e551671d.png)
 
+cutmix함수 만들어줌
