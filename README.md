@@ -61,3 +61,5 @@ LR=0.0001 #학습률
 # Model 학습시키기
 
 ![image](https://user-images.githubusercontent.com/104436260/201830581-c28a2bcc-3520-4b15-9082-aa2491c73e4e.png)
+
+optimizer는 SGD사용
