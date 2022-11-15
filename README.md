@@ -97,3 +97,6 @@ one-hot encoding으로 라벨값 바꿔줌
 ![image](https://user-images.githubusercontent.com/104436260/201858941-47774c25-795e-4c24-8430-92c7e551671d.png)
 
 cutmix함수 만들어줌
+
+![image](https://user-images.githubusercontent.com/104436260/201859582-a7ffad6b-288d-4a9e-b237-1a9cd8ddfeb4.png)
+
