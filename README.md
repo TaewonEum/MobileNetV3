@@ -1,5 +1,7 @@
 # MobileNetV3
 
+Google Colab
+
 tensorflow사용
 
 intel_image_classifiaction 이미지 데이터 사용
