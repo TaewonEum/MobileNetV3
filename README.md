@@ -69,3 +69,5 @@ SGD는 학습이 불안정해보이므로, 현재 가장 많이 사용하는 opt
 ![image](https://user-images.githubusercontent.com/104436260/201831396-45cb096b-1375-4e84-beac-a02c3a61c94b.png)
 
 optimizer변경
+
+# Random crop을 통한 Data Augmantation 진행
