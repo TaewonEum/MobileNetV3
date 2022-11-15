@@ -101,3 +101,7 @@ cutmix함수 만들어줌
 ![image](https://user-images.githubusercontent.com/104436260/201859582-a7ffad6b-288d-4a9e-b237-1a9cd8ddfeb4.png)
 
 cutmix data 확인
+
+![image](https://user-images.githubusercontent.com/104436260/201861284-ce506a7e-769a-4eb5-8ba3-e674f034f6c2.png)
+
+cutmix한 데이터로 
