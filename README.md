@@ -77,3 +77,7 @@ optimizer변경
 batch를 풀어주어 각각의 사진이 random crop 될 수 있도록 함.
 
 drop_ramainder=True를 통해 배치사이즈를 만족시키지 못하는 마지막 데이터들을 버려줌
+
+![image](https://user-images.githubusercontent.com/104436260/201832731-2b9d5a4c-ddb2-41aa-92e1-bd6b792a5538.png)
+
+data augmentation을 해준후 epoch 횟수를 1회 증가시켜준 후 학습 진행
