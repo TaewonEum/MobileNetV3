@@ -91,3 +91,7 @@ Cutmix알고리즘을 사용하기 위해서는 기존의 라벨링값을 one ho
 현재는 라벨링 값이 0~5사이 값으로 입력되어 있는값을 onehot encoding형태로 바꾸어주어야 함.
 
 ![image](https://user-images.githubusercontent.com/104436260/201834994-d85abbc7-895c-4076-9183-5a08df806a23.png)
+
+one-hot encoding으로 라벨값 바꿔줌
+
+
