@@ -85,3 +85,7 @@ data augmentation을 해준후 epoch 횟수를 1회 증가시켜준 후 학습 �
 # Cutmix 알고리즘 구현하여 dataset 생성하기
 
 Cutmix알고리즘을 사용하기 위해서는 기존의 라벨링값을 one hot encoding으로 바꾸어주어야 함
+
+![image](https://user-images.githubusercontent.com/104436260/201834015-efdef40a-8bd2-42f9-8f9c-fdc6ce237654.png)
+
+
