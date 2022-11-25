@@ -44,7 +44,7 @@ batch_size=64 #배치 사이즈
 
 epoch=5 #반복횟수
 
-LR=0.0001 #학습률
+LR=0.01 #학습률
 
 # Google Drive Mount 및 데이터 압축해제
 
