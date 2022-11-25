@@ -50,7 +50,7 @@ LR=0.0001 #학습률
 
 ![image](https://user-images.githubusercontent.com/104436260/203930367-94bc2444-2471-4702-a00d-c48b692738a3.png)
 
-#경로 설정 및 라벨값 카테고리 확인
+# 경로 설정 및 라벨값 카테고리 확인
 
 ![image](https://user-images.githubusercontent.com/104436260/203930725-989ba318-fcdc-48e5-809d-46ac266f4f24.png)
 
