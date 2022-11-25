@@ -76,7 +76,11 @@ SGD로 , 현재 가장 많이 사용하는 optimizer인 Adam으로 학습 진행
 
 ![image](https://user-images.githubusercontent.com/104436260/201831396-45cb096b-1375-4e84-beac-a02c3a61c94b.png)
 
-optimizer변경
+optimizer변경 후 학습
+
+![image](https://user-images.githubusercontent.com/104436260/203933848-31a322c8-f747-432e-b65e-0d4e9ed411bb.png)
+
+SGD보다는 트레인 셋에 과적합된 모습이 보임 파라미터들을 수정한 후 다시 학습
 
 # Random crop을 통한 Data Augmantation 진행
 
