@@ -46,6 +46,10 @@ epoch=5 #반복횟수
 
 LR=0.0001 #학습률
 
+# Google Drive Mount 및 데이터 압축해제
+
+![image](https://user-images.githubusercontent.com/104436260/203930367-94bc2444-2471-4702-a00d-c48b692738a3.png)
+
 # Dataset 만들기
 
 ![image](https://user-images.githubusercontent.com/104436260/201830219-90e9af40-089d-4b20-a5d3-c893d6c8d090.png)
