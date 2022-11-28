@@ -70,9 +70,9 @@ LR=0.01 #학습률
 
 ![image](https://user-images.githubusercontent.com/104436260/201830581-c28a2bcc-3520-4b15-9082-aa2491c73e4e.png)
 
-optimizer는 SGD사용
+optimizer는 처음에는 SGD사용
 
-SGD로 , 현재 가장 많이 사용하는 optimizer인 Adam으로 학습 진행
+다음으로는 현재 가장 많이 사용하는 optimizer인 Adam으로 학습 진행
 
 ![image](https://user-images.githubusercontent.com/104436260/201831396-45cb096b-1375-4e84-beac-a02c3a61c94b.png)
 
