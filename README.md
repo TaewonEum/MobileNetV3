@@ -116,8 +116,8 @@ cutmix함수 만들어줌
 
 cutmix data 확인
 
-![image](https://user-images.githubusercontent.com/104436260/201861284-ce506a7e-769a-4eb5-8ba3-e674f034f6c2.png)
 
-cutmix한 데이터로 train 진행
+
+cutmix한 데이터로 train 및 Validation 진행
 
 # Data size 늘려서 Model 성능 높이기
