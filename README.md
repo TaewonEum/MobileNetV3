@@ -116,7 +116,7 @@ cutmix함수 만들어줌
 
 cutmix data 확인
 
-
+![image](https://user-images.githubusercontent.com/104436260/204228817-03554dc3-9663-4aa1-877d-44e3e2739be0.png)
 
 cutmix한 데이터로 train 및 Validation 진행
 
