@@ -6,6 +6,8 @@ tensorflow사용
 
 intel_image_classifiaction 이미지 데이터 사용
 
+이미지 분류 모델 MobileNetV3사용
+
 # 사용한 패키지
 
 import os
