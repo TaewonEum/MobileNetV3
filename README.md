@@ -138,3 +138,9 @@ cutmix한 데이터로 train 및 Validation 진행
 # 코드로 Learning scheduler 구현
 
 ![image](https://user-images.githubusercontent.com/104436260/207227125-bd1a13da-54b2-4446-8d19-0713df2ed66f.png)
+
+# Learning scheduler 작동 확인(시각화)
+
+![image](https://user-images.githubusercontent.com/104436260/207227273-8263db37-6a3f-416f-9107-d6195d404ea1.png)
+
+
