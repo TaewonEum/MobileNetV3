@@ -131,6 +131,10 @@ cutmix한 데이터로 train 및 Validation 진행
 
 이미지 사이즈 256->320으로 늘리기
 
-#Learning rate warmup+cosine decay 구현하기
+# Learning rate warmup+cosine decay 구현하기
 
 ![image](https://user-images.githubusercontent.com/104436260/207214570-2436e0a5-2428-4107-922b-683882c37467.png)
+
+# 코드로 Learning scheduler 구현
+
+![image](https://user-images.githubusercontent.com/104436260/207227125-bd1a13da-54b2-4446-8d19-0713df2ed66f.png)
