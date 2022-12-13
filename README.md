@@ -130,3 +130,7 @@ cutmix한 데이터로 train 및 Validation 진행
 ![image](https://user-images.githubusercontent.com/104436260/207208516-447e0cdf-ffea-41f1-a2dc-c807757430a2.png)
 
 이미지 사이즈 256->320으로 늘리기
+
+#Learning rate warmup+cosine decay 구현하기
+
+![image](https://user-images.githubusercontent.com/104436260/207214570-2436e0a5-2428-4107-922b-683882c37467.png)
