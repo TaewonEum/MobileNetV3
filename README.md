@@ -124,4 +124,5 @@ cutmix data 확인
 
 cutmix한 데이터로 train 및 Validation 진행
 
+이때 손실함수는 categorical crossentropy로 바꿈 정수값이던 label값이 onehot encoding으로 바뀌었기 때문
 # Data size 늘려서 Model 성능 높이기
