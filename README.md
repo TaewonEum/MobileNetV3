@@ -149,4 +149,8 @@ cutmix한 데이터로 train 및 Validation 진행
 
 # 모델 학습 결과
 
+![image](https://user-images.githubusercontent.com/104436260/207241351-92bed375-05b1-47ad-891e-a23e1f433402.png)
 
+epoch 10회 수행 기준 accuracy가 많이 높아지진 않았지만 epoch 횟수와 batch size등을 조절한다면
+
+data agumentation, learning scheduler 등의 효과를 볼 수 있을것으로 예상됨
