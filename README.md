@@ -114,6 +114,8 @@ one-hot encoding으로 라벨값 바꿔줌
 
 cutmix함수 만들어줌
 
+cutmix는 균등분포에서 0.5보다 큰값이 나오면 해당 이미지에 cutmix를 해줌
+
 ![image](https://user-images.githubusercontent.com/104436260/201859582-a7ffad6b-288d-4a9e-b237-1a9cd8ddfeb4.png)
 
 cutmix data 확인
