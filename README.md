@@ -147,3 +147,6 @@ cutmix한 데이터로 train 및 Validation 진행
 
 ![image](https://user-images.githubusercontent.com/104436260/207236414-f043b137-3de1-4fea-92e0-9aadd8d8fd61.png)
 
+# 모델 학습 결과
+
+
