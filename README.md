@@ -143,4 +143,4 @@ cutmix한 데이터로 train 및 Validation 진행
 
 ![image](https://user-images.githubusercontent.com/104436260/207227273-8263db37-6a3f-416f-9107-d6195d404ea1.png)
 
-
+# Learning scheduler 적용하여 모델 
