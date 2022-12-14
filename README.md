@@ -154,3 +154,8 @@ cutmix한 데이터로 train 및 Validation 진행
 epoch 10회 수행 기준 accuracy가 많이 높아지진 않았지만 epoch 횟수와 batch size등을 조절한다면
 
 data agumentation, learning scheduler 등의 효과를 볼 수 있을것으로 예상됨
+
+#Learning rate decay 적용하여 학습하기
+
+계단식->5 epoch마다 Learning rate를 감소시켜 학습하는 방법 구현
+
