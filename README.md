@@ -159,3 +159,6 @@ data agumentation, learning scheduler 등의 효과를 볼 수 있을것으로 �
 
 계단식->3 epoch마다 Learning rate를 감소시켜 학습하는 방법 구현
 
+![image](https://user-images.githubusercontent.com/104436260/207480728-8bf4aa78-644b-43bd-a178-93d3239607e0.png)
+
+해당 방법에서 가장 좋은 정확도가 나옴
