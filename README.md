@@ -157,5 +157,5 @@ data agumentation, learning scheduler 등의 효과를 볼 수 있을것으로 �
 
 #Learning rate decay 적용하여 학습하기
 
-계단식->5 epoch마다 Learning rate를 감소시켜 학습하는 방법 구현
+계단식->3 epoch마다 Learning rate를 감소시켜 학습하는 방법 구현
 
