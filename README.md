@@ -1,4 +1,4 @@
-# MobileNetV3 ~12.31 ing
+# MobileNetV3 
 
 Google Colab
 
